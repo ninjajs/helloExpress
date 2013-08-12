@@ -1,1 +1,5 @@
 Sample Express app
+
+To run app type "npm start"
+
+Uses nodemon to automatically monitor changes to files without having to restart server.
